@@ -9,7 +9,7 @@ You can also find me in a few other places:
 💖 [CodePen](https://codepen.io/mazil/)  
 🕴️ [LinkedIn](https://www.linkedin.com/in/masnibennett)  
 🐦 [Twitter](https://www.twitter.com/maziltov)  
-📖 [GoodReads](https://www.goodreads.com/mazil)  
+📖 [Goodreads](https://www.goodreads.com/mazil)  
 
 
 <!--
