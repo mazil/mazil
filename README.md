@@ -1,8 +1,8 @@
 ## Hullo hullo!
 
-I'm a product designer and ethusiastic front-end coder. I love designing nice (and impactful) user experiences and poking around in HTML, CSS and JS.
+I'm a product designer and enthusiastic front-end coder. I love designing nice (and impactful) user experiences and poking into HTML, CSS and JS.
 
-👩🏻‍💻 **I'm currently looking for a new role** as a product/UX/UI designer at a mid-sized product company. You can [check out my website](https://masnibennett.com) for some examples of my work.
+👩🏻‍💻 **I'm currently looking for a new role** as a Product/UX/UI designer at a mid-sized product company. You can [check out my website](https://masnibennett.com) for some examples of my work.
 
 You can also find me in a few other places:
 
