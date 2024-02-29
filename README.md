@@ -4,9 +4,9 @@ I'm a product designer and enthusiastic front-end coder. I love designing nice (
 
 You can also find me in a few other places:
 
-💖 [CodePen](https://codepen.io/mazil/)  
-🕴️ [LinkedIn](https://www.linkedin.com/in/masnibennett)  
-📖 [Goodreads](https://www.goodreads.com/mazil)  
+💖 [CodePen](https://codepen.io/mazil/)
+📖 [Goodreads](https://www.goodreads.com/mazil)
+🕴️ [LinkedIn](https://www.linkedin.com/in/masnibennett)
 
 
 <!--
